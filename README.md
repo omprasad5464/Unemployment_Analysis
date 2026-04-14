@@ -1,4 +1,4 @@
-# Unemployment Analysis in India 📊
+# Unemployment Analysis in India 
 
 ## 📌 Project Overview
 Unemployment is measured by the unemployment rate, which is the number of people unemployed 
